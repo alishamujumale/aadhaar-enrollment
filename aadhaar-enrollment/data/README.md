@@ -1,12 +1,9 @@
 # Dataset Information
 
 ## Overview
-This project uses Aadhaar enrolment-related data provided as part of the **UIDAI Data Hackathon**.  
+This project uses Aadhaar enrolment data provided as part of the **UIDAI Data Hackathon**.  
 The data is used to analyze enrolment patterns and identify regional and demographic enrolment coverage gaps.
 
-Due to data sensitivity and hackathon guidelines, raw datasets are **not uploaded to this repository**.
-
----
 
 ## Folder Structure
 
